@@ -1,4 +1,5 @@
-# github-user-search-app-REACT
+# nft-preview-card-component
+
 
 ## Links
 
