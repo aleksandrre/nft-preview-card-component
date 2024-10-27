@@ -18,10 +18,10 @@
   box-shadow: 0px 25px 50px rgba(0, 0, 0, 0.0952917);
 }
 
-.div2:hover .hidden {
+.div3:hover .hidden {
   display: block;
 }
-.div2:hover .hiddendiv {
+.div3:hover .hiddendiv {
   display: block;
 }
 
